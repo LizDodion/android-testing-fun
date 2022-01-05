@@ -1,0 +1,14 @@
+[
+{
+"relation": [
+"delegate_permission/common.handle_all_urls"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "com.thebodycoach.debug",
+"sha256_cert_fingerprints": [
+"85:F8:E3:2B:0F:C9:31:70:C7:F4:9D:CE:1C:F7:FB:02:7B:E5:D6:97:18:56:66:91:93:55:63:C2:FF:10:1F:AD"
+]
+}
+}
+]
